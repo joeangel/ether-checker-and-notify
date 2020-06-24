@@ -9,4 +9,8 @@ module.exports = {
     },
   },
   time_interval: 3, // check per second
+  telegram: {
+    token: '',
+    chat_id: 0,
+  },
 };

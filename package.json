@@ -9,6 +9,7 @@
   },
   "author": "JoeAngel",
   "dependencies": {
+    "node-telegram-bot-api": "^0.50.0",
     "web3": "^1.2.9",
     "web3-eth-abi": "^1.2.9"
   }

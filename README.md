@@ -11,5 +11,5 @@ npm start
 
 ## Features
 
-1. Notify by Telegram when Ether balance have changed.
-2. Support multi wallet address.
+- [x] Notify by Telegram when Ether balance have changed.
+- [ ] Support multi wallet address.
