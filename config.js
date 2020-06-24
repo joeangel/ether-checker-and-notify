@@ -8,4 +8,5 @@ module.exports = {
       etherscanPrefix: "https://etherscan.io/",
     },
   },
+  time_interval: 3, // check per second
 };
