@@ -1,0 +1,15 @@
+{
+  "name": "ether-checker-and-notify",
+  "version": "0.0.1",
+  "description": "Check and notify when a wallet address received tokens.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JoeAngel",
+  "dependencies": {
+    "web3": "^1.2.9",
+    "web3-eth-abi": "^1.2.9"
+  }
+}

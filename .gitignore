@@ -1,0 +1,16 @@
+# Ignore Node Package Manager folder
+node_modules/
+# Ignore Node Package Lock file
+package-lock.json
+# Ignore Yarn Lock file
+yarn.lock
+# Ignore VS Code Workspace Settings
+.vscode/*
+# Ignore Environment Variables
+*.env
+# Ignore MacOS Directory indexer
+**/.DS_Store
+# Ignore vi tempfile
+*.swp
+# Ignore source maps
+*.map
