@@ -13,3 +13,7 @@ npm start
 
 - [x] Notify by Telegram when Ether balance have changed.
 - [ ] Support multi wallet address.
+
+## LICENSE
+
+[MIT](https://github.com/joeangel/ether-checker-and-notify/blob/master/LICENSE)
